@@ -2,7 +2,7 @@
 
 Site de uma barbearia fictícia, criado como projeto de portfólio por **Thyego**. O visitante conhece a barbearia, escolhe um serviço, seleciona dia e horário e envia o pedido de agendamento direto pelo WhatsApp.
 
-**Acesse:** [thyego17.github.io/Projeto-1](https://thyego17.github.io/Projeto-1/)
+**Acesse:** [thyego17.github.io/Barbearia-classica](https://thyego17.github.io/Barbearia-classica/)
 
 ## Funcionalidades
 
@@ -30,7 +30,7 @@ Site de uma barbearia fictícia, criado como projeto de portfólio por **Thyego*
 ## Estrutura
 
 ```
-Projeto-1/
+Barbearia-classica/
 ├── index.html
 └── README.md
 ```
@@ -41,7 +41,7 @@ O site inteiro está em um único arquivo, com CSS e JavaScript incorporados.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/thyego17/Projeto-1.git
+   git clone https://github.com/thyego17/Barbearia-classica.git
    ```
 2. Abra o `index.html` no navegador.
 
@@ -64,5 +64,5 @@ Este é um projeto de demonstração. Nome, endereço, telefone e e-mail são fi
 
 **Thyego**
 
-- Portfólio: [thyego17.github.io/Portif-lio](https://thyego17.github.io/Portif-lio/)
+- Portfólio: [thyego17.github.io/Portifolio-pessoal](https://thyego17.github.io/Portifolio-pessoal/)
 - GitHub: [@thyego17](https://github.com/thyego17)
